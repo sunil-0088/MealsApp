@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290830781638",
+    "project_id": "recipes-book-be20f",
+    "storage_bucket": "recipes-book-be20f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290830781638:android:656dc4701065e1507e5bc7",
+        "android_client_info": {
+          "package_name": "com.example.recipes_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290830781638-4kj7l8jduk7sd0518ffqbkqe3m531ue6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUzGRtu_MImDH8_UINeccOzCgg4jz2gUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290830781638-4kj7l8jduk7sd0518ffqbkqe3m531ue6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
